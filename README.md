@@ -321,28 +321,9 @@ jupyter notebook
 03_walmart_exploratory_data_analysis.ipynb
 ```
 
----
-
-## Future Improvements
-
-- Build an interactive Power BI dashboard
-- Add automated SQL scripts by analysis topic
-- Add more advanced customer segmentation
-- Add inventory reorder simulation
-- Add forecasting model comparison in a separate advanced version
-- Create a final business presentation for stakeholders
-
----
-
 ## Author
 
 **Akash More**  
 Aspiring Data Analyst  
 Skills: Python, SQL, Excel, Power BI, Data Analysis, Business Intelligence
 
----
-
-## Project Status
-
-Completed: Data Cleaning, SQL Analysis, EDA, KPI Analysis, Business Recommendations  
-Next Step: Power BI Dashboard and Final GitHub Project Polish
